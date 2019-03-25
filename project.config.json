@@ -2,9 +2,9 @@
   "miniprogramRoot": "./dist",
   "projectname": "taro-first",
   "description": "",
-  "appid": "touristappid",
+  "appid": "taro-first",
   "setting": {
-    "urlCheck": true,
+    "urlCheck": false,
     "es6": false,
     "postcss": false,
     "minified": false
